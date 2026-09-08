@@ -3,7 +3,6 @@
   "platform" : "ios",
   "ms_played" : 1960367,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:5c20::2e6:a01c",
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -27,7 +26,7 @@
   "platform" : "ios",
   "ms_played" : 11715,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:5c20::2e6:a01c",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -51,7 +50,7 @@
   "platform" : "ios",
   "ms_played" : 30550,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:7550::3232:f2b",
+
   "master_metadata_track_name" : "Capital Letters",
   "master_metadata_album_artist_name" : "Hailee Steinfeld",
   "master_metadata_album_album_name" : "Capital Letters",
@@ -75,7 +74,7 @@
   "platform" : "ios",
   "ms_played" : 4385,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:5c20::435e:16f2",
+
   "master_metadata_track_name" : "LOVE U ANYWAY",
   "master_metadata_album_artist_name" : "benno!",
   "master_metadata_album_album_name" : "LOVE U ANYWAY",
@@ -99,7 +98,7 @@
   "platform" : "ios",
   "ms_played" : 215489,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:20b0:6522:f1da:a736:7b52:b96e",
+
   "master_metadata_track_name" : "The One That Got Away",
   "master_metadata_album_artist_name" : "Katy Perry",
   "master_metadata_album_album_name" : "The One That Got Away",
@@ -123,7 +122,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:20b9:5cb1:d4cb:5163:ae0d:fe01",
+
   "master_metadata_track_name" : "Hall of Fame (feat. will.i.am)",
   "master_metadata_album_artist_name" : "The Script",
   "master_metadata_album_album_name" : "Hall of Fame (feat. will.i.am)",
@@ -147,7 +146,7 @@
   "platform" : "ios",
   "ms_played" : 231037,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:20b9:5cb1:d4cb:5163:ae0d:fe01",
+
   "master_metadata_track_name" : "Hall of Fame (feat. will.i.am)",
   "master_metadata_album_artist_name" : "The Script",
   "master_metadata_album_album_name" : "Hall of Fame (feat. will.i.am)",
@@ -171,7 +170,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.95.232",
+
   "master_metadata_track_name" : "Telephone Busy",
   "master_metadata_album_artist_name" : "5 Seconds of Summer",
   "master_metadata_album_album_name" : "Telephone Busy",
@@ -195,7 +194,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.95.232",
+
   "master_metadata_track_name" : "Telephone Busy",
   "master_metadata_album_artist_name" : "5 Seconds of Summer",
   "master_metadata_album_album_name" : "Telephone Busy",
@@ -219,7 +218,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.95.232",
+
   "master_metadata_track_name" : "COMPLETE MESS (Acoustic Video)",
   "master_metadata_album_artist_name" : "5 Seconds of Summer",
   "master_metadata_album_album_name" : "COMPLETE MESS (Acoustic Video)",
@@ -243,7 +242,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.95.232",
+
   "master_metadata_track_name" : "Telephone Busy",
   "master_metadata_album_artist_name" : "5 Seconds of Summer",
   "master_metadata_album_album_name" : "Telephone Busy",
@@ -267,7 +266,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.95.232",
+
   "master_metadata_track_name" : "COMPLETE MESS (Acoustic Video)",
   "master_metadata_album_artist_name" : "5 Seconds of Summer",
   "master_metadata_album_album_name" : "COMPLETE MESS (Acoustic Video)",
