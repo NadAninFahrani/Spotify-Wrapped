@@ -3,7 +3,7 @@
   "platform" : "ios",
   "ms_played" : 12100,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -27,7 +27,7 @@
   "platform" : "ios",
   "ms_played" : 62,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -51,7 +51,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -75,7 +75,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -99,7 +99,7 @@
   "platform" : "ios",
   "ms_played" : 45222,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -123,7 +123,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -147,7 +147,7 @@
   "platform" : "ios",
   "ms_played" : 9529,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -171,7 +171,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -195,7 +195,7 @@
   "platform" : "ios",
   "ms_played" : 7497,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -219,7 +219,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -243,7 +243,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -267,7 +267,7 @@
   "platform" : "ios",
   "ms_played" : 888,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.69.233",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -291,7 +291,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.116.28",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -315,7 +315,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.116.28",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -339,7 +339,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.101.37",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -363,7 +363,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.18",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -387,7 +387,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.18",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -411,7 +411,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.18",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -435,7 +435,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.18",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -459,7 +459,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.223",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -483,7 +483,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.246",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -507,7 +507,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.246",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -531,7 +531,7 @@
   "platform" : "ios",
   "ms_played" : 14003,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.246",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -555,7 +555,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.246",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -579,7 +579,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "114.125.68.246",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -603,7 +603,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.133.94",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -627,7 +627,7 @@
   "platform" : "ios",
   "ms_played" : 7565,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.133.218",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -651,7 +651,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.133.218",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -675,7 +675,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.92.60",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -699,7 +699,7 @@
   "platform" : "ios",
   "ms_played" : 5351,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.164.234",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -723,7 +723,7 @@
   "platform" : "ios",
   "ms_played" : 228062,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.164.234",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -747,7 +747,7 @@
   "platform" : "ios",
   "ms_played" : 228062,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.165.230",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -771,7 +771,7 @@
   "platform" : "ios",
   "ms_played" : 228055,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.165.230",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -795,7 +795,7 @@
   "platform" : "ios",
   "ms_played" : 228049,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.165.254",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -819,7 +819,7 @@
   "platform" : "ios",
   "ms_played" : 228054,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.165.254",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -843,7 +843,7 @@
   "platform" : "ios",
   "ms_played" : 228057,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.164.246",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -867,7 +867,7 @@
   "platform" : "ios",
   "ms_played" : 135430,
   "conn_country" : "ID",
-  "ip_addr" : "182.2.164.246",
+
   "master_metadata_track_name" : "Sway - triple j Like A Version",
   "master_metadata_album_artist_name" : "beabadoobee",
   "master_metadata_album_album_name" : "Sway",
@@ -891,7 +891,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "182.3.46.73",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -915,7 +915,7 @@
   "platform" : "osx",
   "ms_played" : 1727002,
   "conn_country" : "ID",
-  "ip_addr" : "182.3.51.107",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -939,7 +939,7 @@
   "platform" : "ios",
   "ms_played" : 101379,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:2420::3104:9a6c",
+
   "master_metadata_track_name" : "Just Us (feat. Doja Cat)",
   "master_metadata_album_artist_name" : "Jack Harlow",
   "master_metadata_album_album_name" : "Just Us (feat. Doja Cat)",
@@ -963,7 +963,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.91.227",
+
   "master_metadata_track_name" : "Take Care",
   "master_metadata_album_artist_name" : "Drake",
   "master_metadata_album_album_name" : "Take Care",
@@ -987,7 +987,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.92.208",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -1011,7 +1011,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.92.208",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -1035,7 +1035,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.87.128",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -1059,7 +1059,7 @@
   "platform" : "ios",
   "ms_played" : 198103,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:2520::4ea1:9c50",
+
   "master_metadata_track_name" : "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
   "master_metadata_album_artist_name" : "Don Toliver",
   "master_metadata_album_album_name" : "Lose My Mind (feat. Doja Cat) [From F1® The Movie]",
@@ -1083,7 +1083,7 @@
   "platform" : "ios",
   "ms_played" : 11060,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:2140::8643:247e",
+
   "master_metadata_track_name" : "Can't Help Falling in Love",
   "master_metadata_album_artist_name" : "Elvis Presley",
   "master_metadata_album_album_name" : "Can't Help Falling in Love",
@@ -1107,7 +1107,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "103.164.113.210",
+
   "master_metadata_track_name" : "Somebody's Pleasure",
   "master_metadata_album_artist_name" : "Aziz Hedra",
   "master_metadata_album_album_name" : "Somebody's Pleasure",
@@ -1131,7 +1131,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "103.164.113.210",
+
   "master_metadata_track_name" : "Somebody's Pleasure",
   "master_metadata_album_artist_name" : "Aziz Hedra",
   "master_metadata_album_album_name" : "Somebody's Pleasure",
@@ -1155,7 +1155,7 @@
   "platform" : "ios",
   "ms_played" : 2391410,
   "conn_country" : "ID",
-  "ip_addr" : "103.164.113.210",
+
   "master_metadata_track_name" : null,
   "master_metadata_album_artist_name" : null,
   "master_metadata_album_album_name" : null,
@@ -1179,7 +1179,7 @@
   "platform" : "ios",
   "ms_played" : 178327,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:2020::a5c:cfd9",
+
   "master_metadata_track_name" : "Stick Season",
   "master_metadata_album_artist_name" : "Noah Kahan",
   "master_metadata_album_album_name" : "Stick Season",
@@ -1203,7 +1203,7 @@
   "platform" : "ios",
   "ms_played" : 49749,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:5c60::412f:7f83",
+
   "master_metadata_track_name" : "Be Mine",
   "master_metadata_album_artist_name" : "boy pablo",
   "master_metadata_album_album_name" : "Be Mine",
@@ -1227,7 +1227,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.251.182.189",
+
   "master_metadata_track_name" : "superstar",
   "master_metadata_album_artist_name" : "Ardhito Pramono",
   "master_metadata_album_album_name" : "superstar",
@@ -1251,7 +1251,7 @@
   "platform" : "ios",
   "ms_played" : 0,
   "conn_country" : "ID",
-  "ip_addr" : "180.251.182.189",
+
   "master_metadata_track_name" : "superstar",
   "master_metadata_album_artist_name" : "Ardhito Pramono",
   "master_metadata_album_album_name" : "superstar",
@@ -1275,7 +1275,7 @@
   "platform" : "osx",
   "ms_played" : 43929,
   "conn_country" : "ID",
-  "ip_addr" : "180.252.91.44",
+
   "master_metadata_track_name" : "Evergreen (You Didn’t Deserve Me At All)",
   "master_metadata_album_artist_name" : "Omar Apollo",
   "master_metadata_album_album_name" : "Evergreen (You Didn’t Deserve Me At All)",
@@ -1299,7 +1299,7 @@
   "platform" : "ios",
   "ms_played" : 72431,
   "conn_country" : "ID",
-  "ip_addr" : "2404:c0:20ba:62a9:351e:83dc:a8bd:35dd",
+
   "master_metadata_track_name" : "All The Things She Said",
   "master_metadata_album_artist_name" : "t.A.T.u.",
   "master_metadata_album_album_name" : "All The Things She Said",
